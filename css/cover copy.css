@@ -283,6 +283,12 @@ a.logo:hover, a.logo:focus {color: #121212;}
         font-size:40px;
         text-align: center;
     }
+   .title4{
+        color: #000;
+        font-family: 'Lato', sans-serif;
+        font-size:32px;
+        text-align: center;
+    }
 .subtitle{
         font-family: 'Bebas Neue', cursive;
         font-size: 30px;
@@ -306,7 +312,7 @@ a.logo:hover, a.logo:focus {color: #121212;}
 
 .projectlink{
     font-family:'Taviraj', serif; 
-    font-size: 24px;
+    font-size: 18px;
     color:#1890FF;
     text-decoration: none;
 }
