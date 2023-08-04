@@ -44,14 +44,11 @@ body {
 
 .featuredwork:hover{color:#121212;text-decoration:none;background-color:transparent;}
 .project-bg{
-   background-image:linear-gradient(135deg, #6C66C9 0%, #F97C73 100%);
    margin-left: auto;
    margin-right: auto;
-   width: 95%;
+   width: 75%;
    height:auto;
-   -webkit-box-shadow: 0 8px 20px -6px #595959;
-    -moz-box-shadow: 0 8px 20px -6px #595959; 
-    box-shadow: 0 8px 20px -6px #959595;
+   
    
 }
 
@@ -67,16 +64,20 @@ body {
    
 }
 .project-bg-2{
-   background-color: #045de9;
-   background-image: linear-gradient(240deg, #1695F0 0%, #09c6f9 100%);   
-   margin-top: 80px;
    margin-left: auto;
    margin-right: auto;
-   width: 95%;
+   width: 75%;
    height:auto;
-    -webkit-box-shadow: 0 8px 20px -6px #595959;
-    -moz-box-shadow: 0 8px 20px -6px #595959; 
-    box-shadow: 0 8px 20px -6px #959595;
+   
+}
+
+.project-bg-growth{
+   background-image:#07182B;
+   margin-left: auto;
+   margin-right: auto;
+   width: 100%;
+   height:auto;
+   
 }
 
 .project-bg-lam{
@@ -105,7 +106,7 @@ body {
 }
 
 .project-bg-3{
-    background-color:#f5f5f5;
+    background-color:#FAFCFF;
     margin-left: auto;
     margin-right: auto;
     width: 100%;
@@ -184,7 +185,7 @@ a.logo:hover, a.logo:focus {color: #121212;}
 }
 
 .passcode{
-    color:#fff;
+    color:#0278D5;
     font-size:12px;
 }
 
@@ -208,6 +209,11 @@ a.logo:hover, a.logo:focus {color: #121212;}
     height: auto;
     width: auto;
     
+}
+
+.button{
+    font-size: 20px;
+    font-weight: 400;
 }
 .greeting{
     font-family: 'Open Sans', sans-serif;
@@ -233,7 +239,7 @@ a.logo:hover, a.logo:focus {color: #121212;}
         font-family: 'Open Sans', sans-serif;
         font-size: 18px;
         line-height: 32px;
-        color:#fff;
+        color:#000;
     }
  
    .project-description2{
@@ -250,15 +256,15 @@ a.logo:hover, a.logo:focus {color: #121212;}
     
 }
     .title{
-        color: #ffffff;
+        color: #000;
         font-family: 'Taviraj', serif;
         font-size:48px;
     }
     
    .title2{
-        color: #fff;
+        color: #000;
         font-family: 'Lato', sans-serif;
-        font-size:56px;
+        font-size:40px;
         text-align: center;
     }
 .subtitle{
@@ -270,6 +276,11 @@ a.logo:hover, a.logo:focus {color: #121212;}
         font-family: 'Bebas Neue', cursive;
         font-size: 64px;
 }
+
+.subtitle2{
+        font-size: 24px;
+}
+
 
 .content{
     
@@ -305,13 +316,13 @@ a.logo:hover, a.logo:focus {color: #121212;}
     
 }
 .action{
-        color: #ffffff;
+        color: #000;
         font-family: 'Taviraj', serif;
     
 };
 
 a.casebutton{
-       color:#fbfbfb;
+       color:#0278D5;
        text-decoration: none;
        font-size: 18px;
 };

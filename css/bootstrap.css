@@ -3129,14 +3129,14 @@ fieldset:disabled a.btn {
 }
 
 .btn-outline-light {
-  color: #f8f9fa;
-  border-color: #f8f9fa;
+  color: #0278D5;
+  border-color: #0278D5;
 }
 
 .btn-outline-light:hover {
-  color: #212529;
-  background-color: #f8f9fa;
-  border-color: #f8f9fa;
+  color: #004BA4;
+  background-color: #004BA4;
+  border-color: #004BA4;
 }
 
 .btn-outline-light:focus, .btn-outline-light.focus {

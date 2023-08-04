@@ -2885,11 +2885,11 @@
   box-shadow: 0 0 1px rgba(0, 0, 0, 0);
   -webkit-transition-duration: 0.1s;
   transition-duration: 0.1s;
-  color:#ffffff;
+  color:#0278D5;
   font-size:20px;
 }
 
-.hvr-icon-forward:hover{color:#ffffff;text-decoration:none;background-color:transparent; font-size: 20px};
+.hvr-icon-forward:hover{color:#004BA4;text-decoration:none;background-color:transparent; font-size: 20px};
 
 .hvr-icon-forward .hvr-icon {
   -webkit-transform: translateZ(0);
